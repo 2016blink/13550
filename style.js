@@ -1,1 +1,1 @@
-alert("style.js cargado en gitHub");
+console.log("style.js cargado en gitHub");
