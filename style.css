@@ -1,4 +1,4 @@
 
-.unit-content {background-image: "https://raw.githubusercontent.com/2016blink/13550/master/prueba.jpg"}
+.unit-content {background-image: url("https://raw.githubusercontent.com/2016blink/13550/master/prueba.jpg");}
 .rojodd, span {color: red}
 .amarillodd {color: yellow}
