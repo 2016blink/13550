@@ -1,3 +1,5 @@
+alert("ww");
+
 (function (blink) {
 	'use strict';
 
