@@ -1,4 +1,4 @@
-console.log("Log mostrado desde GitHub");
+console.log("Log mOOOOOd");
 (function (blink) {
 	'use strict';
 
