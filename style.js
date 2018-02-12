@@ -1,4 +1,4 @@
-Console.log("rr");
+console.log("rr");
 
 /*(function (blink) {
 	'use strict';
