@@ -1,6 +1,6 @@
-alert("rr");
+console_lof("rr");
 
-(function (blink) {
+/*(function (blink) {
 	'use strict';
 
 	$.getScript('/themes/responsive/assets/styles/classic/style.js',
@@ -28,3 +28,4 @@ alert("rr");
 	);
 
 })( blink );
+*/
